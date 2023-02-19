@@ -53,8 +53,8 @@ global.thumbnail = "./image/logolinux.jpg" // ini lol.jpg adalah nama foto di fo
 global.donasi = "./image/donasih.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = 'Linuxmd' //sticker wm ubah
+global.author = 'Di Buat Oleh linuxmd' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 //type menu for menu
 global.typemenu = 'document' //
